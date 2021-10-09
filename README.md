@@ -7,7 +7,7 @@ About me:
     - Java (good)
     - Python (avegare)
     - React (basics)
-- You can reach me via [Telegram](t.me/san_teri) and [Linkedin](https://www.linkedin.com/in/santerimertakorpi/)
+- You can reach me via [Telegram](https://t.me/san_teri) and [Linkedin](https://www.linkedin.com/in/santerimertakorpi/)
 
 <!---
 SanteriMertakorpi/SanteriMertakorpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
