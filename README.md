@@ -5,6 +5,7 @@
 
 I'm Santeri Mertakopi. I am a 2nd year CS student in the University of Eastern Finland.
 Currently my main focus is in learning and practising fullstack-web development, and improving my skills in the languages/technologies i have listed in the _skills_ section.
+I'm currently doing volunteer work in [Skripit ry](https://github.com/skripti-org) web dev team, we are developing and maintance of [Skripit ry's webpage](https://skripti.org)
 
 Here in my github you can find projects i have created as a part of my studies or in my freetime.
 
