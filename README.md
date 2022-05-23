@@ -1,7 +1,7 @@
 
 
 
-## Hello!
+## Hi and welcome to my GitHub!
 
 I'm Santeri Mertakopi. I am a 2nd year CS student in the University of Eastern Finland.
 Currently my main focus is in learning and practising fullstack-web development, and improving my skills in the languages/technologies i have listed in the _skills_ section.
