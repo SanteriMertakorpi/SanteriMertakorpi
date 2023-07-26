@@ -1,11 +1,12 @@
 
 
 
-## Hi and welcome to my GitHub!
+## Hi I'm Santeri Mertakopi and welcome to my GitHub!
 
-I'm Santeri Mertakopi. I am a 3rd year CS student in the University of Eastern Finland.
+I am a 4th year CS student in the University of Eastern Finland.
 Currently my main focus is in learning and practising fullstack-web development, and improving my skills in the languages/technologies i have listed in the _skills_ section.
-I'm currently doing volunteer work in [Skripit ry](https://github.com/skripti-org) web dev team, we are developing and maintainig [Skripit ry's webpage](https://skripti.org)
+I'm currently doing volunteer work in [Skripit ry](https://github.com/skripti-org) as a chair of the board and as a member of Skripti's dev team, we are developing and maintainig [Skripit ry's webpage](https://skripti.org)
+and developing other projects for example a [songbook](https://skripti.org/laulukirja) for student events
 
 Here in my github you can find projects i have created as a part of my studies or in my freetime.
 
