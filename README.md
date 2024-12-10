@@ -10,6 +10,16 @@ and developing other projects for example a [songbook](https://skripti.org/laulu
 
 Here in my github you can find projects i have created as a part of my studies or in my freetime.
 
+### Personal Projects
+- [Password Manager app](https://github.com/SanteriMertakorpi/Password-Manager)
+- [Student restaurant menus mobile app](https://github.com/SanteriMertakorpi/Restaurant-menus)
+- [My own Discord Bot](https://github.com/SanteriMertakorpi/Discord-Bot)
+
+### Projects made on university courses
+- [AI](https://github.com/SanteriMertakorpi/AI_GroupWork)
+- [Reservation system](https://github.com/SanteriMertakorpi/Reservation-system)
+- [FullStack](https://github.com/SanteriMertakorpi/FullStackOpen)
+
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JAVA](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%f89820)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
